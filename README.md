@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p>Seguidores -&gt; <a title="Followers" href="https://github.com/maurorajr?tab=followers">https://github.com/maurorajr?tab=followers</a></p>
+
 <!--
 **maurorajr/maurorajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
